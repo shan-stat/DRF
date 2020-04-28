@@ -1,4 +1,6 @@
 ########## DRF example ##########
+### !!Define DRF function using "FuncDRF.R" beforehand!! ###
+
 ### Benchmark experiment using "iris" dataset ###
 library(datasets)
 dat <- iris
