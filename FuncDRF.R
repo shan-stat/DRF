@@ -499,7 +499,7 @@ DRF.formula <-
 
 
 ## Step 4. Load "DRF.zip" file to R ##
-# Step 4-1. Download "DRF.zip" file ()
+# Step 4-1. Download "DRF.zip" file ("https://github.com/shan-stat/DRF")
 
 # Step 4-2. Set "~/DRF/src/" as working directory #
 setwd("Input your path")
