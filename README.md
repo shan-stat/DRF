@@ -12,11 +12,11 @@ Step 3) Define "DRF.formula" function
 
 Step 4) Load "DRF.zip" file to R and Make your own R package 
 - You can download "DRF.zip" file at https://github.com/shan-stat/DRF.
-- The detailed descriptions how to do this step are in the R file.
+- The R file contains descriptions how to do this step.
 
 ## ExpeDRF.R
 This R file contains codes for fitting DRF and evaluating it using the iris dataset.
 
 ## Notice
-- For more detailed explanation, please refer to the paper "Han, S., Kim, H., & Lee, Y. S. (2020). Double random forest. Machine Learning, 109(8), 1569-1586". 
+- For detailed descriptions, please refer to the paper "Han, S., Kim, H., & Lee, Y. S. (2020). Double random forest. Machine Learning, 109(8), 1569-1586". 
 - We plan on developing R package for DRF in the near soon. Thanks!
