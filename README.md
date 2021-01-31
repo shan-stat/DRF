@@ -1,5 +1,5 @@
 # DRF
-This document aims to instruct how to use "Double random forest" algorithm in R program. The source codes are split into two main R files "FuncDRF.R" and "ExpeDRF.R".
+This document aims to instruct how to use "Double random forest" algorithm in R program. The source codes are split into two main R files, "FuncDRF.R" and "ExpeDRF.R".
 
 ## FuncDRF.R
 This R file describes how to import Double random forest (DRF) in R program. Refer that DRF is implemented based on the "randomForest" R package (Reference : A. Liaw and M. Wiener (2002). Classification and Regression by randomForest. R News 2(3), 18--22.).
