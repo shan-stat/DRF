@@ -18,5 +18,5 @@ Step 4) Load "DRF.zip" file to R and Make your own R package
 This R file produces a simple example for fitting DRF and evaluating it using "iris" dataset.
 
 ## Notice
-- To know what is DRF, please refer to the paper "Han, S., Kim, H., & Lee, Y. S. (2020). Double random forest. Machine Learning, 109(8), 1569-1586".
+- To know what is DRF, please refer to the paper "Han, S., Kim, H., & Lee, Y. S. (2020). Double random forest. *Machine Learning*, 109(8), 1569-1586".
 - We plan on developing R package for DRF in the near soon. Thanks!
