@@ -19,4 +19,4 @@ This R file produces a simple example for fitting DRF and evaluating it using "i
 
 ## Notice
 - For more details, please refer to the paper "Han, S., Kim, H., & Lee, Y. S. (2020). Double random forest. *Machine Learning*, 109(8), 1569-1586".
-- We plan on developing R package for DRF in the near soon. Thanks!
+- We plan on developing R package for DRF near soon. Thanks!
